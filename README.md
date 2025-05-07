@@ -1,4 +1,4 @@
-# 🕶️ Optics Store “Cul d'Ampolla” – MongoDB Project
+# 🕶️ Optics Store “Bottleneck Optics” – MongoDB Project
 
 ## 📋 Project Statement
 
@@ -6,7 +6,7 @@ We will create different databases using MongoDB.
 
 ### Level 1 – Optics Store
 
-An optics store called **“Cul d'Ampolla”** wants to digitalize the management of its customers and glasses sales.
+An optics store called **“Bottleneck Optics”** wants to digitalize the management of its customers and glasses sales.
 
 - First, the store wants to track the **supplier of each pair of glasses**. For each supplier, the following information should be stored:
   - Name
