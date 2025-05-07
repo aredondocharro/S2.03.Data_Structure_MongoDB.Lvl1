@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "681a60758b0d8cb45c76b28a"
+  },
+  "name": "Laura Pons",
+  "postal_address": "45 Major Street, 2nd 1st, Lleida",
+  "phone": "600112233",
+  "email": "laura.pons@mail.com",
+  "registration_date": {
+    "$date": "2024-04-01T10:00:00.000Z"
+  },
+  "referred_by": null
+},
+{
+  "_id": {
+    "$oid": "681a60758b0d8cb45c76b28b"
+  },
+  "name": "David Serra",
+  "postal_address": "12 Rambla Nova, Tarragona",
+  "phone": "600998877",
+  "email": "david.serra@mail.com",
+  "registration_date": {
+    "$date": "2024-04-05T11:15:00.000Z"
+  },
+  "referred_by": {
+    "$oid": "681a60758b0d8cb45c76b28a"
+  }
+},
+{
+  "_id": {
+    "$oid": "681a60758b0d8cb45c76b28c"
+  },
+  "name": "Anna Puig",
+  "postal_address": "34 Avda Catalunya, Reus",
+  "phone": "600445566",
+  "email": "anna.puig@mail.com",
+  "registration_date": {
+    "$date": "2024-04-08T13:00:00.000Z"
+  },
+  "referred_by": null
+},
+{
+  "_id": {
+    "$oid": "681a60758b0d8cb45c76b28d"
+  },
+  "name": "Jordi Esteve",
+  "postal_address": "Carrer del Sol, Girona",
+  "phone": "600223344",
+  "email": "jordi.esteve@mail.com",
+  "registration_date": {
+    "$date": "2024-04-10T14:30:00.000Z"
+  },
+  "referred_by": {
+    "$oid": "681a60758b0d8cb45c76b28c"
+  }
+}]

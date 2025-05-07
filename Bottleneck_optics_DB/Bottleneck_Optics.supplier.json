@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "681a5daa8b0d8cb45c76b263"
+  },
+  "name": "Vision Global",
+  "address": {
+    "street": "Gran Via",
+    "number": 123,
+    "floor": 2,
+    "door": "B",
+    "city": "Barcelona",
+    "postal_code": "08010",
+    "country": "Spain"
+  },
+  "phone": "932123456",
+  "fax": "932654321",
+  "tax_id": "B12345678"
+},
+{
+  "_id": {
+    "$oid": "681a5daa8b0d8cb45c76b264"
+  },
+  "name": "LensTech",
+  "address": {
+    "street": "Diagonal",
+    "number": 456,
+    "floor": 1,
+    "door": "A",
+    "city": "Madrid",
+    "postal_code": "28010",
+    "country": "Spain"
+  },
+  "phone": "913456789",
+  "fax": "913987654",
+  "tax_id": "B87654321"
+},
+{
+  "_id": {
+    "$oid": "681a5daa8b0d8cb45c76b265"
+  },
+  "name": "Optic Supplies Inc.",
+  "address": {
+    "street": "Passeig de Gracia",
+    "number": 321,
+    "floor": 4,
+    "door": "C",
+    "city": "Valencia",
+    "postal_code": "46001",
+    "country": "Spain"
+  },
+  "phone": "961234567",
+  "fax": "961765432",
+  "tax_id": "B11223344"
+}]

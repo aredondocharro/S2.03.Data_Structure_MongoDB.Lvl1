@@ -1,0 +1,198 @@
+[{
+  "_id": {
+    "$oid": "681a5e648b0d8cb45c76b26f"
+  },
+  "brand": "Ray-Ban",
+  "lens_graduation": {
+    "left": 1.5,
+    "right": 2
+  },
+  "frame_type": "metal",
+  "frame_color": "black",
+  "lens_color": {
+    "left": "clear",
+    "right": "clear"
+  },
+  "price": 120,
+  "supplier_id": {
+    "$oid": "681a5daa8b0d8cb45c76b263"
+  }
+},
+{
+  "_id": {
+    "$oid": "681a5e648b0d8cb45c76b270"
+  },
+  "brand": "Oakley",
+  "lens_graduation": {
+    "left": 2,
+    "right": 2.5
+  },
+  "frame_type": "plastic",
+  "frame_color": "blue",
+  "lens_color": {
+    "left": "blue",
+    "right": "blue"
+  },
+  "price": 150,
+  "supplier_id": {
+    "$oid": "681a5daa8b0d8cb45c76b264"
+  }
+},
+{
+  "_id": {
+    "$oid": "681a5e648b0d8cb45c76b271"
+  },
+  "brand": "Gucci",
+  "lens_graduation": {
+    "left": 1,
+    "right": 1.2
+  },
+  "frame_type": "floating",
+  "frame_color": "gold",
+  "lens_color": {
+    "left": "green",
+    "right": "green"
+  },
+  "price": 300,
+  "supplier_id": {
+    "$oid": "681a5daa8b0d8cb45c76b265"
+  }
+},
+{
+  "_id": {
+    "$oid": "681a5e648b0d8cb45c76b272"
+  },
+  "brand": "Persol",
+  "lens_graduation": {
+    "left": 2.2,
+    "right": 2.4
+  },
+  "frame_type": "metal",
+  "frame_color": "silver",
+  "lens_color": {
+    "left": "clear",
+    "right": "clear"
+  },
+  "price": 200,
+  "supplier_id": {
+    "$oid": "681a5daa8b0d8cb45c76b263"
+  }
+},
+{
+  "_id": {
+    "$oid": "681a5e648b0d8cb45c76b273"
+  },
+  "brand": "Police",
+  "lens_graduation": {
+    "left": 1.8,
+    "right": 1.8
+  },
+  "frame_type": "plastic",
+  "frame_color": "red",
+  "lens_color": {
+    "left": "brown",
+    "right": "brown"
+  },
+  "price": 180,
+  "supplier_id": {
+    "$oid": "681a5daa8b0d8cb45c76b264"
+  }
+},
+{
+  "_id": {
+    "$oid": "681a5e648b0d8cb45c76b274"
+  },
+  "brand": "Armani",
+  "lens_graduation": {
+    "left": 2,
+    "right": 2
+  },
+  "frame_type": "floating",
+  "frame_color": "black",
+  "lens_color": {
+    "left": "blue",
+    "right": "blue"
+  },
+  "price": 250,
+  "supplier_id": "681a5daa8b0d8cb45c76b265"
+},
+{
+  "_id": {
+    "$oid": "681a5e648b0d8cb45c76b275"
+  },
+  "brand": "Nike Vision",
+  "lens_graduation": {
+    "left": 1.6,
+    "right": 1.9
+  },
+  "frame_type": "plastic",
+  "frame_color": "white",
+  "lens_color": {
+    "left": "grey",
+    "right": "grey"
+  },
+  "price": 130,
+  "supplier_id": {
+    "$oid": "681a5daa8b0d8cb45c76b263"
+  }
+},
+{
+  "_id": {
+    "$oid": "681a5e648b0d8cb45c76b276"
+  },
+  "brand": "Tom Ford",
+  "lens_graduation": {
+    "left": 1.7,
+    "right": 2.1
+  },
+  "frame_type": "metal",
+  "frame_color": "green",
+  "lens_color": {
+    "left": "clear",
+    "right": "clear"
+  },
+  "price": 280,
+  "supplier_id": {
+    "$oid": "681a5daa8b0d8cb45c76b264"
+  }
+},
+{
+  "_id": {
+    "$oid": "681a5e648b0d8cb45c76b277"
+  },
+  "brand": "Vogue Eyewear",
+  "lens_graduation": {
+    "left": 2.3,
+    "right": 2.7
+  },
+  "frame_type": "floating",
+  "frame_color": "pink",
+  "lens_color": {
+    "left": "rose",
+    "right": "rose"
+  },
+  "price": 210,
+  "supplier_id": {
+    "$oid": "681a5daa8b0d8cb45c76b265"
+  }
+},
+{
+  "_id": {
+    "$oid": "681a5e648b0d8cb45c76b278"
+  },
+  "brand": "Prada",
+  "lens_graduation": {
+    "left": 1.1,
+    "right": 1.4
+  },
+  "frame_type": "metal",
+  "frame_color": "brown",
+  "lens_color": {
+    "left": "clear",
+    "right": "clear"
+  },
+  "price": 270,
+  "supplier_id": {
+    "$oid": "681a5daa8b0d8cb45c76b263"
+  }
+}]

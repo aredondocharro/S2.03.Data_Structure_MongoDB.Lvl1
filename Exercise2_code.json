@@ -1,0 +1,48 @@
+// Bottleneck_optics.glasses
+[
+    {
+     "_id": {
+        "$oid": "6789012345abc"
+    },
+    "brand": "Ray-Ban",
+    "frame_type": "metal",
+    "price": 120.0,
+    "provided_by": "681a5daa8b0d8cb45c76b264",
+    "bought_by":[{
+        "_id": "6789054321bcd"
+    }]
+  }
+]
+
+// Bottleneck_optics.customer
+ {
+ "_id": {
+     "$oid": "6789054321bcd"
+    },
+  "name": "Jonh Doe",
+  "data": {
+    "address": "street number one",
+    "telephone": "623456789",
+    "email": "mongodbexercise@gmail.com",
+    "register_date": { "$date": "2024-05-06T15:10:00Z" }
+  }
+}
+//Bottleneck_optics.supplier
+{
+    "_id": {
+      "$oid": "681a5daa8b0d8cb45c76b264"
+    },
+    "name": "LensTech",
+    "address": {
+      "street": "Diagonal",
+      "number": 456,
+      "floor": 1,
+      "door": "A",
+      "city": "Madrid",
+      "postal_code": "28010",
+      "country": "Spain"
+    },
+    "phone": "913456789",
+    "fax": "913987654",
+    "tax_id": "B87654321"
+  }

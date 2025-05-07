@@ -1,0 +1,68 @@
+[{
+  "_id": {
+    "$oid": "681a61b38b0d8cb45c76b29f"
+  },
+  "client_id": {
+    "$oid": "681a60758b0d8cb45c76b28a"
+  },
+  "glasses_id": {
+    "$oid": "681a5e648b0d8cb45c76b277"
+  },
+  "employee_id": {
+    "$oid": "681a61068b0d8cb45c76b29b"
+  },
+  "sale_date": {
+    "$date": "2024-05-01T16:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "681a61b38b0d8cb45c76b2a0"
+  },
+  "client_id": {
+    "$oid": "681a60758b0d8cb45c76b28b"
+  },
+  "glasses_id": {
+    "$oid": "681a5e648b0d8cb45c76b26f"
+  },
+  "employee_id": {
+    "$oid": "681a61068b0d8cb45c76b29c"
+  },
+  "sale_date": {
+    "$date": "2024-05-03T12:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "681a61b38b0d8cb45c76b2a1"
+  },
+  "client_id": {
+    "$oid": "681a60758b0d8cb45c76b28c"
+  },
+  "glasses_id": {
+    "$oid": "681a5e648b0d8cb45c76b273"
+  },
+  "employee_id": {
+    "$oid": "681a61068b0d8cb45c76b29c"
+  },
+  "sale_date": {
+    "$date": "2024-05-05T09:45:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "681a61b38b0d8cb45c76b2a2"
+  },
+  "client_id": {
+    "$oid": "681a60758b0d8cb45c76b28d"
+  },
+  "glasses_id": {
+    "$oid": "681a62948b0d8cb45c76b2ba"
+  },
+  "employee_id": {
+    "$oid": "681a61068b0d8cb45c76b29b"
+  },
+  "sale_date": {
+    "$date": "2024-05-06T15:10:00.000Z"
+  }
+}]

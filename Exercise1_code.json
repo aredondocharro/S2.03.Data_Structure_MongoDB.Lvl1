@@ -1,0 +1,36 @@
+// Client
+{
+  "_id": "6789054321bcd",
+  "name": "Jonh Doe",
+  "data": {
+    "address": "street number one",
+    "telephone": "623456789",
+    "email": "mongodbexercise@gmail.com",
+    "register_date": { "$date": "2024-05-06T15:10:00Z" }
+  },
+  "last_shoppings": [
+    { "glasses_id": "6789012345abc" },
+    { "glasses_id": "67890123321abc" }
+  ]
+}
+// Glasses
+[
+  {
+    "_id": "6789012345abc",
+    "brand": "Ray-Ban",
+    "lens_graduation": { "left": 1.5, "right": 2.0 },
+    "frame_type": "metal",
+    "frame_color": "black",
+    "lens_color": { "left": "clear", "right": "clear" },
+    "price": 120.0
+  },
+  {
+    "_id": "67890123321abc",
+    "brand": "Oakley",
+    "lens_graduation": { "left": 2.0, "right": 2.5 },
+    "frame_type": "plastic",
+    "frame_color": "blue",
+    "lens_color": { "left": "blue", "right": "blue" },
+    "price": 150.0
+  }
+]
