@@ -78,7 +78,7 @@ When viewing the system from the point of view of the glasses:
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/your-user/optics-mongodb.git
+   git clone https://github.com/aredondocharro/S2.03.Data_Structure_MongoDB.Lvl1.git
    cd optics-mongodb
    ```
 
